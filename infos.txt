@@ -1,0 +1,12 @@
+La base de donnée est une base de donnée MongoDB, il vous suffit de vous connecter via le site web: https://cloud.mongodb.com/user
+les identifiants sont les suivants: 
+easycode@tuta.io
+Senpass94!
+
+Vous pouvez aller ensuite dans la section "Metrics" pour regarder en détails les opérations qui auront lieu sur la base de donnée
+
+
+
+APPLICATION:
+L'application se trouve dans le dossier "MaBanque-win32-x64" sous le nom de "MaBanque.exe"
+Une fois le programme démarré deux comptes s'offrent à vous, "user" et "admin"
